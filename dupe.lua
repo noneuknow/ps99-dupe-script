@@ -75,7 +75,7 @@ local Section = Tab:AddSection({
     Name = "Visual Stuff"
 })
 
-local fromPet = "Neon Cat"
+local fromPet = "Dog"
 local toPet = "Titanic Monkey"
 
 Tab:AddTextbox({
